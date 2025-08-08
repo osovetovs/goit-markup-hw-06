@@ -1282,6 +1282,10 @@ input[type='checkbox']:checked + label .agreement-checkbox {
     width: 408px;
   }
 }
+
+.menu-toggle-icon{
+  fill: var(--color-hero-background);
+}
 .menu-toggle-container:hover,
 .menu-toggle-container:focus {
   color: var(--color-white-background);
