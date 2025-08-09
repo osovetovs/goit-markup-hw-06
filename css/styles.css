@@ -1359,11 +1359,16 @@ input[type='checkbox']:checked + label .agreement-checkbox {
   top: 24px;
   right: 24px;
 }
+
+.mobile-nav{
+  margin-bottom: auto;
+}
+
 .mobile-menu {
   display: flex;
   flex-direction: column;
   gap: 40px;
-  margin-bottom: auto;
+  
 }
 .mobile-menu-link {
   color: var(--color-hero-background);
